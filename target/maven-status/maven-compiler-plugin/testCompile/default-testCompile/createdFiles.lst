@@ -1,5 +1,5 @@
-testCases\TC002_Account002Test.class
 testCases\TC003_Account003Test.class
-testBase\BaseClass.class
 pageObjects\BasePage.class
+testCases\TC002_Account002Test.class
+testBase\BaseClass.class
 testCases\TC001_Account001Test.class

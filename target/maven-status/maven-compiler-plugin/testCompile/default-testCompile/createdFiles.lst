@@ -1,5 +1,9 @@
 testCases\TC003_Account003Test.class
 pageObjects\BasePage.class
+utilities\ExtentReportManager.class
 testCases\TC002_Account002Test.class
+utilities\DataProviders.class
+utilities\ExcelUtility.class
 testBase\BaseClass.class
 testCases\TC001_Account001Test.class
+testCases\TC004_AccountDDT004Test.class

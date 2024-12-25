@@ -181,3 +181,37 @@
 2024-12-25 11:02:38 INFO  TC001_Account001Test:15 - ****** Ending getTC001_Account001Test()*****
 2024-12-25 11:02:38 INFO  TC001_Account001Test:117 - ****** Startign tearDown()*****
 2024-12-25 11:02:39 INFO  TC001_Account001Test:120 - ****** Ending tearDown()*****
+2024-12-25 11:25:48 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 11:25:52 INFO  TC001_Account001Test:111 - ****** Ending setup()*****
+2024-12-25 11:25:52 INFO  TC001_Account001Test:12 - ****** Startign getTC001_Account001Test()*****
+2024-12-25 11:25:52 INFO  TC001_Account001Test:15 - ****** Ending getTC001_Account001Test()*****
+2024-12-25 11:25:52 INFO  TC001_Account001Test:117 - ****** Startign tearDown()*****
+2024-12-25 11:25:52 INFO  TC001_Account001Test:120 - ****** Ending tearDown()*****
+2024-12-25 11:25:52 INFO  TC002_Account002Test:50 - ****** Startign setup()*****
+2024-12-25 11:25:54 INFO  TC002_Account002Test:111 - ****** Ending setup()*****
+2024-12-25 11:25:54 INFO  TC002_Account002Test:12 - ****** Startign getTC002_Account002Test()*****
+2024-12-25 11:25:54 INFO  TC002_Account002Test:15 - ****** Ending getTC002_Account002Test()*****
+2024-12-25 11:25:54 INFO  TC002_Account002Test:117 - ****** Startign tearDown()*****
+2024-12-25 11:25:54 INFO  TC002_Account002Test:120 - ****** Ending tearDown()*****
+2024-12-25 11:25:54 INFO  TC003_Account003Test:50 - ****** Startign setup()*****
+2024-12-25 11:25:56 INFO  TC003_Account003Test:111 - ****** Ending setup()*****
+2024-12-25 11:25:56 INFO  TC003_Account003Test:12 - ****** Startign getTC003_Account003Test()*****
+2024-12-25 11:25:56 INFO  TC003_Account003Test:15 - ****** Ending getTC003_Account003Test()*****
+2024-12-25 11:25:56 INFO  TC003_Account003Test:117 - ****** Startign tearDown()*****
+2024-12-25 11:25:56 INFO  TC003_Account003Test:120 - ****** Ending tearDown()*****
+2024-12-25 11:25:56 INFO  TC004_AccountDDT004Test:50 - ****** Startign setup()*****
+2024-12-25 11:25:58 INFO  TC004_AccountDDT004Test:111 - ****** Ending setup()*****
+2024-12-25 11:25:59 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 11:26:02 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 11:26:02 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 11:26:05 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 11:26:05 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 11:26:08 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 11:26:08 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 11:26:11 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 11:26:11 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 11:26:14 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 11:26:14 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 11:26:17 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 11:26:17 INFO  TC004_AccountDDT004Test:117 - ****** Startign tearDown()*****
+2024-12-25 11:26:17 INFO  TC004_AccountDDT004Test:120 - ****** Ending tearDown()*****

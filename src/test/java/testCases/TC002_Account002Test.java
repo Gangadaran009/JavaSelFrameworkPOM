@@ -6,7 +6,7 @@ import testBase.BaseClass;
 
 public class TC002_Account002Test extends BaseClass{
 	
-	@Test
+	@Test(groups={"Regression"})
 	public void getTC002_Account002Test()
 	{
 		logger.info("****** Startign getTC002_Account002Test()*****");

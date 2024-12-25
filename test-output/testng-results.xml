@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-25T11:02:26 IST" name="Suite" finished-at="2024-12-25T11:02:39 IST" duration-ms="12394">
+  <suite started-at="2024-12-25T11:25:47 IST" name="Suite" finished-at="2024-12-25T11:26:17 IST" duration-ms="29680">
     <groups>
+      <group name="Sanity">
+        <method signature="TC001_Account001Test.getTC001_Account001Test()[pri:0, instance:testCases.TC001_Account001Test@6356695f]" name="getTC001_Account001Test" class="testCases.TC001_Account001Test"/>
+        <method signature="TC003_Account003Test.getTC003_Account003Test()[pri:0, instance:testCases.TC003_Account003Test@359f7cdf]" name="getTC003_Account003Test" class="testCases.TC003_Account003Test"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC002_Account002Test.getTC002_Account002Test()[pri:0, instance:testCases.TC002_Account002Test@4f18837a]" name="getTC002_Account002Test" class="testCases.TC002_Account002Test"/>
+        <method signature="TC003_Account003Test.getTC003_Account003Test()[pri:0, instance:testCases.TC003_Account003Test@359f7cdf]" name="getTC003_Account003Test" class="testCases.TC003_Account003Test"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-12-25T11:02:26 IST" name="chrometest" finished-at="2024-12-25T11:02:33 IST" duration-ms="7085">
-      <class name="testCases.TC001_Account001Test">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Account001Test@71809907]" started-at="2024-12-25T11:02:27 IST" name="setup" finished-at="2024-12-25T11:02:32 IST" duration-ms="5438" status="PASS">
+    <test started-at="2024-12-25T11:25:47 IST" name="Test" finished-at="2024-12-25T11:26:17 IST" duration-ms="29680">
+      <class name="testCases.TC002_Account002Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Account002Test@4f18837a]" started-at="2024-12-25T11:25:52 IST" name="setup" finished-at="2024-12-25T11:25:54 IST" duration-ms="1819" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,19 +31,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="getTC001_Account001Test()[pri:0, instance:testCases.TC001_Account001Test@71809907]" started-at="2024-12-25T11:02:32 IST" name="getTC001_Account001Test" finished-at="2024-12-25T11:02:32 IST" duration-ms="8" status="PASS">
+        <test-method signature="getTC002_Account002Test()[pri:0, instance:testCases.TC002_Account002Test@4f18837a]" started-at="2024-12-25T11:25:54 IST" name="getTC002_Account002Test" finished-at="2024-12-25T11:25:54 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getTC001_Account001Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Account001Test@71809907]" started-at="2024-12-25T11:02:32 IST" name="tearDown" finished-at="2024-12-25T11:02:33 IST" duration-ms="1376" status="PASS">
+        </test-method> <!-- getTC002_Account002Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_Account002Test@4f18837a]" started-at="2024-12-25T11:25:54 IST" name="tearDown" finished-at="2024-12-25T11:25:54 IST" duration-ms="222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_Account001Test -->
-    </test> <!-- chrometest -->
-    <test started-at="2024-12-25T11:02:26 IST" name="firefoxtest" finished-at="2024-12-25T11:02:37 IST" duration-ms="10498">
-      <class name="testCases.TC001_Account001Test">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Account001Test@8f4ea7c]" started-at="2024-12-25T11:02:27 IST" name="setup" finished-at="2024-12-25T11:02:36 IST" duration-ms="9290" status="PASS">
+      </class> <!-- testCases.TC002_Account002Test -->
+      <class name="testCases.TC003_Account003Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_Account003Test@359f7cdf]" started-at="2024-12-25T11:25:54 IST" name="setup" finished-at="2024-12-25T11:25:56 IST" duration-ms="1733" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,26 +50,24 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="getTC001_Account001Test()[pri:0, instance:testCases.TC001_Account001Test@8f4ea7c]" started-at="2024-12-25T11:02:36 IST" name="getTC001_Account001Test" finished-at="2024-12-25T11:02:36 IST" duration-ms="3" status="PASS">
+        <test-method signature="getTC003_Account003Test()[pri:0, instance:testCases.TC003_Account003Test@359f7cdf]" started-at="2024-12-25T11:25:56 IST" name="getTC003_Account003Test" finished-at="2024-12-25T11:25:56 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getTC001_Account001Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Account001Test@8f4ea7c]" started-at="2024-12-25T11:02:36 IST" name="tearDown" finished-at="2024-12-25T11:02:37 IST" duration-ms="976" status="PASS">
+        </test-method> <!-- getTC003_Account003Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_Account003Test@359f7cdf]" started-at="2024-12-25T11:25:56 IST" name="tearDown" finished-at="2024-12-25T11:25:56 IST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_Account001Test -->
-    </test> <!-- firefoxtest -->
-    <test started-at="2024-12-25T11:02:26 IST" name="edgetest" finished-at="2024-12-25T11:02:39 IST" duration-ms="12394">
+      </class> <!-- testCases.TC003_Account003Test -->
       <class name="testCases.TC001_Account001Test">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Account001Test@16d04d3d]" started-at="2024-12-25T11:02:27 IST" name="setup" finished-at="2024-12-25T11:02:38 IST" duration-ms="11179" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Account001Test@6356695f]" started-at="2024-12-25T11:25:48 IST" name="setup" finished-at="2024-12-25T11:25:52 IST" duration-ms="4203" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -72,22 +76,170 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[edge]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="getTC001_Account001Test()[pri:0, instance:testCases.TC001_Account001Test@16d04d3d]" started-at="2024-12-25T11:02:38 IST" name="getTC001_Account001Test" finished-at="2024-12-25T11:02:38 IST" duration-ms="3" status="PASS">
+        <test-method signature="getTC001_Account001Test()[pri:0, instance:testCases.TC001_Account001Test@6356695f]" started-at="2024-12-25T11:25:52 IST" name="getTC001_Account001Test" finished-at="2024-12-25T11:25:52 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTC001_Account001Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Account001Test@16d04d3d]" started-at="2024-12-25T11:02:38 IST" name="tearDown" finished-at="2024-12-25T11:02:39 IST" duration-ms="984" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Account001Test@6356695f]" started-at="2024-12-25T11:25:52 IST" name="tearDown" finished-at="2024-12-25T11:25:52 IST" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_Account001Test -->
-    </test> <!-- edgetest -->
+      <class name="testCases.TC004_AccountDDT004Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:25:56 IST" name="setup" finished-at="2024-12-25T11:25:58 IST" duration-ms="1759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:25:59 IST" name="verify_DDT" data-provider="LoginData" finished-at="2024-12-25T11:26:02 IST" duration-ms="3003" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gangadaran009@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DDT -->
+        <test-method signature="verify_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:26:02 IST" name="verify_DDT" data-provider="LoginData" finished-at="2024-12-25T11:26:05 IST" duration-ms="3017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lakshmi@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laxmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DDT -->
+        <test-method signature="verify_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:26:05 IST" name="verify_DDT" data-provider="LoginData" finished-at="2024-12-25T11:26:08 IST" duration-ms="3013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laksh@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DDT -->
+        <test-method signature="verify_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:26:08 IST" name="verify_DDT" data-provider="LoginData" finished-at="2024-12-25T11:26:11 IST" duration-ms="3008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laks@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DDT -->
+        <test-method signature="verify_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:26:11 IST" name="verify_DDT" data-provider="LoginData" finished-at="2024-12-25T11:26:14 IST" duration-ms="3017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DDT -->
+        <test-method signature="verify_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:26:14 IST" name="verify_DDT" data-provider="LoginData" finished-at="2024-12-25T11:26:17 IST" duration-ms="3011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC004_AccountDDT004Test@1fa268de]" started-at="2024-12-25T11:26:17 IST" name="tearDown" finished-at="2024-12-25T11:26:17 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC004_AccountDDT004Test -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -6,7 +6,7 @@ import testBase.BaseClass;
 
 public class TC001_Account001Test extends BaseClass{
 	
-	@Test
+	@Test(groups={"Sanity"})
 	public void getTC001_Account001Test()
 	{
 		logger.info("****** Startign getTC001_Account001Test()*****");

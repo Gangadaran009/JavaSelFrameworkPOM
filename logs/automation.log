@@ -317,3 +317,88 @@
 2024-12-25 12:23:07 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
 2024-12-25 12:23:07 INFO  TC004_AccountDDT004Test:117 - ****** Startign tearDown()*****
 2024-12-25 12:23:08 INFO  TC004_AccountDDT004Test:120 - ****** Ending tearDown()*****
+2024-12-25 13:45:56 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 14:57:50 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 14:57:54 INFO  TC001_Account001Test:111 - ****** Ending setup()*****
+2024-12-25 14:57:54 INFO  TC001_Account001Test:12 - ****** Startign getTC001_Account001Test()*****
+2024-12-25 14:57:54 INFO  TC001_Account001Test:15 - ****** Ending getTC001_Account001Test()*****
+2024-12-25 14:57:54 INFO  TC001_Account001Test:117 - ****** Startign tearDown()*****
+2024-12-25 14:57:54 INFO  TC001_Account001Test:120 - ****** Ending tearDown()*****
+2024-12-25 14:59:02 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 14:59:04 INFO  TC001_Account001Test:111 - ****** Ending setup()*****
+2024-12-25 14:59:04 INFO  TC001_Account001Test:12 - ****** Startign getTC001_Account001Test()*****
+2024-12-25 14:59:04 INFO  TC001_Account001Test:15 - ****** Ending getTC001_Account001Test()*****
+2024-12-25 14:59:04 INFO  TC001_Account001Test:117 - ****** Startign tearDown()*****
+2024-12-25 14:59:04 INFO  TC001_Account001Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:05:04 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 15:05:04 INFO  TC002_Account002Test:50 - ****** Startign setup()*****
+2024-12-25 15:05:04 INFO  TC003_Account003Test:50 - ****** Startign setup()*****
+2024-12-25 15:05:04 INFO  TC004_AccountDDT004Test:50 - ****** Startign setup()*****
+2024-12-25 15:06:07 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 15:06:13 INFO  TC001_Account001Test:111 - ****** Ending setup()*****
+2024-12-25 15:06:13 INFO  TC001_Account001Test:12 - ****** Startign getTC001_Account001Test()*****
+2024-12-25 15:06:13 INFO  TC001_Account001Test:15 - ****** Ending getTC001_Account001Test()*****
+2024-12-25 15:06:13 INFO  TC001_Account001Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:06:14 INFO  TC001_Account001Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:06:14 INFO  TC002_Account002Test:50 - ****** Startign setup()*****
+2024-12-25 15:06:15 INFO  TC002_Account002Test:111 - ****** Ending setup()*****
+2024-12-25 15:06:15 INFO  TC002_Account002Test:12 - ****** Startign getTC002_Account002Test()*****
+2024-12-25 15:06:15 INFO  TC002_Account002Test:15 - ****** Ending getTC002_Account002Test()*****
+2024-12-25 15:06:15 INFO  TC002_Account002Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:06:16 INFO  TC002_Account002Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:06:16 INFO  TC003_Account003Test:50 - ****** Startign setup()*****
+2024-12-25 15:06:18 INFO  TC003_Account003Test:111 - ****** Ending setup()*****
+2024-12-25 15:06:18 INFO  TC003_Account003Test:12 - ****** Startign getTC003_Account003Test()*****
+2024-12-25 15:06:18 INFO  TC003_Account003Test:15 - ****** Ending getTC003_Account003Test()*****
+2024-12-25 15:06:18 INFO  TC003_Account003Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:06:18 INFO  TC003_Account003Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:06:18 INFO  TC004_AccountDDT004Test:50 - ****** Startign setup()*****
+2024-12-25 15:06:20 INFO  TC004_AccountDDT004Test:111 - ****** Ending setup()*****
+2024-12-25 15:06:21 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:06:24 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:06:24 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:06:27 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:06:27 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:06:30 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:06:30 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:06:33 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:06:33 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:06:36 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:06:36 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:06:39 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:06:39 INFO  TC004_AccountDDT004Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:06:39 INFO  TC004_AccountDDT004Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:49:58 INFO  TC001_Account001Test:50 - ****** Startign setup()*****
+2024-12-25 15:50:04 INFO  TC001_Account001Test:111 - ****** Ending setup()*****
+2024-12-25 15:50:04 INFO  TC001_Account001Test:12 - ****** Startign getTC001_Account001Test()*****
+2024-12-25 15:50:04 INFO  TC001_Account001Test:15 - ****** Ending getTC001_Account001Test()*****
+2024-12-25 15:50:04 INFO  TC001_Account001Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:50:04 INFO  TC001_Account001Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:50:04 INFO  TC002_Account002Test:50 - ****** Startign setup()*****
+2024-12-25 15:50:08 INFO  TC002_Account002Test:111 - ****** Ending setup()*****
+2024-12-25 15:50:08 INFO  TC002_Account002Test:12 - ****** Startign getTC002_Account002Test()*****
+2024-12-25 15:50:08 INFO  TC002_Account002Test:15 - ****** Ending getTC002_Account002Test()*****
+2024-12-25 15:50:08 INFO  TC002_Account002Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:50:09 INFO  TC002_Account002Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:50:09 INFO  TC003_Account003Test:50 - ****** Startign setup()*****
+2024-12-25 15:50:11 INFO  TC003_Account003Test:111 - ****** Ending setup()*****
+2024-12-25 15:50:11 INFO  TC003_Account003Test:12 - ****** Startign getTC003_Account003Test()*****
+2024-12-25 15:50:11 INFO  TC003_Account003Test:15 - ****** Ending getTC003_Account003Test()*****
+2024-12-25 15:50:11 INFO  TC003_Account003Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:50:11 INFO  TC003_Account003Test:120 - ****** Ending tearDown()*****
+2024-12-25 15:50:11 INFO  TC004_AccountDDT004Test:50 - ****** Startign setup()*****
+2024-12-25 15:50:13 INFO  TC004_AccountDDT004Test:111 - ****** Ending setup()*****
+2024-12-25 15:50:14 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:50:17 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:50:17 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:50:20 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:50:20 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:50:23 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:50:23 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:50:26 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:50:26 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:50:29 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:50:29 INFO  TC004_AccountDDT004Test:13 - ***** stating TC_004_DDT ******
+2024-12-25 15:50:32 INFO  TC004_AccountDDT004Test:27 - ***** Finished TC_004_DDT ******
+2024-12-25 15:50:32 INFO  TC004_AccountDDT004Test:117 - ****** Startign tearDown()*****
+2024-12-25 15:50:32 INFO  TC004_AccountDDT004Test:120 - ****** Ending tearDown()*****

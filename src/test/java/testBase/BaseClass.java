@@ -94,8 +94,8 @@ public class BaseClass {
 			switch(br.toLowerCase())
 			{
 			case "chrome" : driver=new ChromeDriver(); WebDriverManager.chromedriver().setup();break;
-			case "edge" : driver=new EdgeDriver(); break;
-			case "firefox": driver=new FirefoxDriver(); break;
+			case "edge" : driver=new EdgeDriver(); WebDriverManager.edgedriver().setup();
+			case "firefox": driver=new FirefoxDriver(); WebDriverManager.firefoxdriver().setup();
 			default : System.out.println("Invalid browser name.."); return;
 			}
 		}
